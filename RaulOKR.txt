@@ -1,0 +1,3 @@
+Design bare bones environment -- Wed by 9pm (estimate: 3 hrs)
+Create WASD character controler -- Wed by 11pm (estimate: 2 hrs)
+Test environment and update code for teammates to test as well -- Thurs by 9am (estimate: 1-2 hrs)

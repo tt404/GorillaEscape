@@ -1,0 +1,3 @@
+Setup the initial project -- (estimate: 2 hrs)
+Create basic movement controls -- Thu by 12pm (estimate: 3 hrs)
+Sort out any merge conflicts incase something goes wrong -- Thu by 7pm (estimate: ?? hrs)

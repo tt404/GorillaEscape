@@ -4,3 +4,7 @@ Provide assistance to finish the story line by Sat 28th (3 hrs)
 
 the gorilla is able to climb left and right while climbing up at the same time by Thursday 9th before class(2 hrs)
 the gorilla drops fluidly after climbing the box by Thursday 9th before class (4 hrs)
+
+reverse gorilla movement when going backward by Thursday 16th before class (1 hr)
+reverse gorilla movement when climbing down by Thursday 16th before class (1 hr)
+the gorilla should be able to move horizontally while climbing the wall by Thursday 16th before class (3 hrs)
